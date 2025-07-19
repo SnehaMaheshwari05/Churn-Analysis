@@ -13,7 +13,7 @@ The dashboard was built using the following tools and technologies:
 - 🗂 **File Formats** – `.pbix` for development and `.png` for dashboard preview images.
 
 ## Data Source
-The dataset includes:
+Source: https://www.kaggle.com/
 
 - Customer demographics (age, gender, state).  
 - Subscription details (contract type, internet type, and services).  
