@@ -2,6 +2,16 @@
 
 An interactive churn analysis dashboard designed to analyze customer attrition patterns, identify key churn reasons, and track customer retention KPIs. This dashboard helps businesses reduce churn by providing actionable insights on customer behavior, demographics, and service preferences.
 
+## SQL Data Preparation
+I used SQL to clean and transform the raw data before importing itinto power bi for visualization. This step help me to ensure that the reports are built on top of accuarte,relevant, and well-structured data.
+
+Key steps performed in SQL:
+- Connected to the database and imported the raw tables.
+- Removed duplicates and null values to ensure data quality.
+- Change datatypes of some columns.
+- Created new calculated columns.
+- Exported the clean datasets to power bi for visulaization.
+
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
 
