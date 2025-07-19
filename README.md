@@ -31,5 +31,5 @@ The dataset includes:
 
   ## Screenshot
  1.  https://raw.githubusercontent.com/SnehaMaheshwari05/Churn-Analysis/refs/heads/main/Snapshots/Snapshot.png
- 2.  
+ 2.  https://github.com/SnehaMaheshwari05/Churn-Analysis/blob/main/Snapshots/Snapshot_tooltip.png
   
