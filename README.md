@@ -30,4 +30,6 @@ The dataset includes:
 - 🎨 **Modern Dark-Themed UI** – Clean, interactive, and optimized for better user experience.
 
   ## Screenshot
+ 1.  https://raw.githubusercontent.com/SnehaMaheshwari05/Churn-Analysis/refs/heads/main/Snapshots/Snapshot.png
+ 2.  
   
