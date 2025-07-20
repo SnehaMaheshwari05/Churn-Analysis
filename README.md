@@ -25,11 +25,6 @@ The dashboard was built using the following tools and technologies:
 ## Data Source
 Source: https://www.kaggle.com/
 
-- Customer demographics (age, gender, state).  
-- Subscription details (contract type, internet type, and services).  
-- Customer tenure and monthly charges.  
-- Churn category and churn reasons.  
-
 ## Features / Highlights
 - 👥 **Customer Overview** – Displays total customers, new joiners, churn count, and churn rate.  
 - 📊 **Churn by Gender, Age, and Contract** – Breakdown of churn across different demographics and contract types.  
